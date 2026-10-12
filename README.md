@@ -1,6 +1,6 @@
 # go_ising
 
-Code for the blog post *On the ferromagnetic properties of the game of Go*.
+Code for the blog post *On the ferromagnetic properties of the game of Go* @ juantorofabra.com .
 
 The idea: predict the final owner of every point of a 9×9 Go board from the mid-game position, using an Ising model. The stones act as an external field h and the owners of neighbouring points are coupled through J. Then we check whether the Ising model learned from Go games behaves like a magnet.
 
