@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+CLAUDE.md
+
+# red de KataGo (36 MB, se descarga aparte) y logs
+red.bin.gz
+*.log
+analysis_logs/
